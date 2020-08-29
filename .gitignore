@@ -1,0 +1,12 @@
+*bak
+*bk
+*~
+~*
+*work
+*wk
+.git
+.svn
+logs
+packages
+tmp
+vendor
