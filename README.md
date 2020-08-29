@@ -2,4 +2,4 @@
 
 ## contents
 
-* [[docs/how_to_get_permalink.md]]
+* [how_to_get_permalink](docs/how_to_get_permalink.md)
